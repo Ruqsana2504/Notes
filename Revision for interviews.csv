@@ -1,0 +1,25 @@
+﻿,,Problems,,
+,,,,
+Sonar Qube,,List of integer occurrences,,Comparator vs Comparable
+"Java 11, Java21 features",,find duplicates,,Cloenable
+Junit 5 features,,distinct elements in list,,Static vs default
+code review,,find unique words and then sort,,Spring vs springboot
+Association between classes,,traverse list using streams where sal > 10000,,dependency injection
+"JWT, Oauth2",,display managers name and who report them,,Autowiring
+Solid Principles,,,,Functional interface
+Design patterns,,,,Optional
+Docker,,,,Marker interface
+Kubernetes,,,,copyOfArray
+Spring microservices,,,,Multithreading
+AWS,,,,Circular dependencies
+Data structures,,,,"throw, throws, throwable"
+SQL-Transactional,,,,spring performance turing
+Memory management,,,,Concurrent hashmap
+Hashmap,,,,Synchronisation
+Date Time,,,,Try with resource
+Data JPA,,,,Garbage collection
+Java8,,,,Authorising user
+Git,,,,
+MYSql,,,,
+,,,,
+"Records, sealed classes",,,,
